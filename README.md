@@ -36,5 +36,5 @@ Or, if you want to prank individual users better:
   Enjoy & Help Improve!
   
 ## Credits
-Henrique Gubert
-Mauricio Moraes 
+[Henrique Gubert](https://github.com/hsgubert)
+[Mauricio Moraes](https://github.com/MauricioMoraes)

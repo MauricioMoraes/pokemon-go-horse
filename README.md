@@ -31,10 +31,11 @@ Or, if you want to prank individual users better:
 ```
 
   With a small probability of appearing, the users will start trying to guess what causes the pokemons to appear:
-  > "It appeared just after I grebbed a cup of coffee!"
+  > "It appeared just after I grabbed a cup of coffee!"
   
   Enjoy & Help Improve!
   
   ## Credits
+  
   Henrique Gubert
   Mauricio Moraes 

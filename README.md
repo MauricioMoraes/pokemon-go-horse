@@ -35,7 +35,6 @@ Or, if you want to prank individual users better:
   
   Enjoy & Help Improve!
   
-  ## Credits
-  
-  Henrique Gubert
-  Mauricio Moraes 
+## Credits
+Henrique Gubert
+Mauricio Moraes 
